@@ -6,7 +6,6 @@ phases:
 artificates:
   files:
     - index.html
-    - favicon.ico
-    - *.pdf
-    - styles/*.*
-    - images/*.*
+    - *.ico
+    - styles/*
+    - images/*
